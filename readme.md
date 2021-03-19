@@ -9,7 +9,7 @@ MTN Cote d’Ivoire/Ivory Coast requires to upgrade their infrastructure for bet
 * python
 * pandas
 * numpy
-* Google colab
+* Colab Notebook
 ## Support and contact details
 {0718963044}
 {silviabarasa16@gmail}
